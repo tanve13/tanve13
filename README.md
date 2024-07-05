@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @tanve13
 - 👀 I’m interested in Android Development
 - 🌱 I’m currently learning Android Development in Kotlin
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me tanusaini.jandir@gmail.com
 - 😄 Pronouns: Her
-- ⚡ Fun fact: ...
+
 
 <!---
 tanve13/tanve13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
