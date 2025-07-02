@@ -43,9 +43,3 @@
 </p>
 
 ---
-
-## ☕ Support:
-
-If you like what I do, consider buying me a coffee:
-<br>
-<a href="https://www.buymeacoffee.com/yourusername"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=yourusername&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff" /></a>
