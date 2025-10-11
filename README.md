@@ -20,6 +20,9 @@
   <a href="https://www.instagram.com/tanveer13_/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="Instagram" />
   </a>
+    <a href="https://leetcode.com/Tanveer_Kaur13/" target="_blank">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="LeetCode"/>
+  </a>
 </p>
 
 ---
