@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tanveer Kaur</h1>
-<h3 align="center">An Android Developer from India 🇮🇳 | Kotlin • DSA • GitHub Growth 🚀</h3>
+<h3 align="center">An Android Developer | Kotlin • DSA • GitHub Growth 🚀</h3>
 
 
 - 🔭 I’m currently working on **Android apps in Kotlin**
@@ -7,7 +7,6 @@
 - 👯 I’m looking to collaborate on **Kotlin & Open Source Android Projects**
 - 💬 Ask me about **Android Development, Git, Firebase**
 - 📫 How to reach me: tanusaini.jandir@gmail.com
-- ⚡ Fun fact: I debug more than I code. 😅
 
 ---
 
