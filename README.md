@@ -45,17 +45,17 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-livid-rho-y9thq7wuvy.vercel.app/api?username=Vanshikagup2206&show_icons=true&theme=radical&count_private=true&hide_border=true&rank=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-livid-rho-y9thq7wuvy.vercel.app/api?username=tanve13&show_icons=true&theme=radical&count_private=true&hide_border=true&rank=true" alt="GitHub Stats" />
 </p>
 
 ### 📈 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats-livid-rho-y9thq7wuvy.vercel.app/api/top-langs/?username=Vanshikagup2206&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages" />
+  <img src="https://github-readme-stats-livid-rho-y9thq7wuvy.vercel.app/api/top-langs/?username=tanve13&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages" />
 </p>
 
 ### 🔥 GitHub Streak 
 <p align="center"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Vanshikagup2206&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=tanve13&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 
