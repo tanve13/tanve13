@@ -43,14 +43,21 @@
 
 ---
 
-## 📈 GitHub Stats:
-
+### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanve13&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="stats" />
-<img src="https://github-readme-streak-stats.vercel.app/?user=tanve13&theme=tokyonight" alt="streak" />
-
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanve13&layout=compact&theme=tokyonight" alt="langs" />
+  <img src="https://github-readme-stats-livid-rho-y9thq7wuvy.vercel.app/api?username=Vanshikagup2206&show_icons=true&theme=radical&count_private=true&hide_border=true&rank=true" alt="GitHub Stats" />
 </p>
+
+### 📈 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats-livid-rho-y9thq7wuvy.vercel.app/api/top-langs/?username=Vanshikagup2206&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages" />
+</p>
+
+### 🔥 GitHub Streak 
+<p align="center"> 
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Vanshikagup2206&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
 
 
 ---
