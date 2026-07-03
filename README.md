@@ -1,71 +1,136 @@
 <h1 align="center">Hi 👋, I'm Tanveer Kaur</h1>
-<h3 align="center">An Android Developer | Kotlin • DSA • GitHub Growth 🚀</h3>
 
+<h3 align="center">
+Android Developer 📱 | Kotlin Enthusiast 💜 | DSA Learner 💻 | Open Source Contributor 🚀
+</h3>
 
-- 🔭 I’m currently working on **Android apps in Kotlin**
-- 🌱 I’m currently learning **Jetpack Compose, Clean Architecture & LeetCode DSA**
-- 👯 I’m looking to collaborate on **Kotlin & Open Source Android Projects**
-- 💬 Ask me about **Android Development, Git, Firebase**
-- 📫 How to reach me: tanusaini.jandir@gmail.com
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+## 👩‍💻 About Me
+
+- 🎓 B.Tech CSE Student
+- 📱 Passionate Android Developer
+- 💜 Building Android Apps using Kotlin
+- 🌱 Currently learning Jetpack Compose, Clean Architecture & DSA
+- 🚀 Open Source Contributor
+- 🏆 Hackathon Participant
+- 💬 Ask me about Android, Kotlin, Firebase & Git
+- 📫 Reach me at **tanusaini.jandir@gmail.com**
 
 ---
 
-## 🌐 Connect with me:
+## 🌐 Connect with Me
 
 <p align="left">
-  <a href="(https://www.linkedin.com/in/tanveer-kaur-56a188304/)" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/tanveer13_/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="Instagram" />
-  </a>
-    <a href="https://leetcode.com/Tanveer_Kaur13/" target="_blank">
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="LeetCode"/>
-  </a>
+
+<a href="https://www.linkedin.com/in/tanveer-kaur-56a188304">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://leetcode.com/Tanveer_Kaur13/">
+<img src="https://cdn.simpleicons.org/leetcode" width="48"/>
+</a>
+
+<a href="https://www.instagram.com/tanveer13_/">
+<img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+
 </p>
 
 ---
 
-## 🧰 Languages and Tools:
+# 💻 Tech Stack
 
 <p align="left">
-   <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C"/>
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/>
-  <img src="https://img.icons8.com/color/48/000000/kotlin.png" alt="kotlin"/>
-  <img src="https://img.icons8.com/color/48/000000/android-studio--v3.png" alt="android studio"/>
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="java"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="git"/>
-  <img src="https://img.icons8.com/color/48/000000/github--v1.png" alt="github"/>
-  <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="firebase"/>
- 
-  
+
+<img src="https://skillicons.dev/icons?i=java"/>
+
+<img src="https://skillicons.dev/icons?i=kotlin"/>
+
+<img src="https://skillicons.dev/icons?i=androidstudio"/>
+
+<img src="https://skillicons.dev/icons?i=firebase"/>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=cpp"/>
+
+<img src="https://skillicons.dev/icons?i=c"/>
+
 </p>
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats-livid-rho-y9thq7wuvy.vercel.app/api?username=tanve13&show_icons=true&theme=radical&count_private=true&hide_border=true&rank=true" alt="GitHub Stats" />
-</p>
+# 🚀 Current Goals
 
-### 📈 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats-livid-rho-y9thq7wuvy.vercel.app/api/top-langs/?username=tanve13&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages" />
-</p>
+✅ Solve LeetCode Daily
 
-### 🔥 GitHub Streak 
-<p align="center"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=tanve13&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+✅ Build Android Projects
 
+✅ Contribute to Open Source
 
+✅ Improve DSA
 
----
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tanve13&theme=radical&no-bg=true&margin-w=15&margin-h=15" />
-</p>
+✅ Learn Jetpack Compose
 
 ---
 
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=tanve13&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanve13&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=tanve13&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=tanve13&theme=tokyonight&margin-w=10&no-frame=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tanve13&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# ✨ Quote of the Day
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=tanve13&label=Profile%20Views&color=blue&style=for-the-badge"/>
+
+</p>
