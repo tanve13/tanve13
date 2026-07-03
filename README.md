@@ -77,33 +77,11 @@ Android Developer 📱 | Kotlin Enthusiast 💜 | DSA Learner 💻 | Open Source
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanve13&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
----
-# 📈 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanve13&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
 # 🔥 GitHub Streak
 
 <p align="center">
 
 <img src="https://streak-stats.demolab.com?user=tanve13&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=tanve13&theme=tokyonight&margin-w=10&no-frame=true"/>
 
 </p>
 
