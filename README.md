@@ -79,9 +79,7 @@ Android Developer 📱 | Kotlin Enthusiast 💜 | DSA Learner 💻 | Open Source
 
 # 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=tanve13&theme=tokyonight&hide_border=true&date_format=M+j%5B%2C+Y%5D" />
-</p>
+<p align="center"> <img src="https://streak-stats.demolab.com?user=tanve13&theme=tokyonight&hide_border=true"/> </p>
 
 ---
 
