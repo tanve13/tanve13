@@ -77,26 +77,21 @@ Android Developer 📱 | Kotlin Enthusiast 💜 | DSA Learner 💻 | Open Source
 
 ---
 
-# 🔥 GitHub Streak
-
-<p align="center"> <img src="https://streak-stats.demolab.com?user=tanve13&theme=tokyonight&hide_border=true"/> </p>
-
----
 # 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=Ali-hey-0&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-stats-extended.vercel.app/api?username=tanve13&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
 <img src="https://streak-stats.demolab.com/?user=Ali-hey-0&theme=tokyonight&hide_border=true" width="48%" />
 
 <br>
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ali-hey-0&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ali-hey-0&theme=tokyo-night&hide_border=true" width="48%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=tanve13&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tanve13&theme=tokyo-night&hide_border=true" width="48%" />
 
 <br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ali-hey-0&theme=tokyonight&no-frame=true&row=1&column=7" width="95%" />
+<img src="https://github-profile-trophy.vercel.app/?username=tanve13&theme=tokyonight&no-frame=true&row=1&column=7" width="95%" />
 
 </div>
 ---
@@ -105,7 +100,7 @@ Android Developer 📱 | Kotlin Enthusiast 💜 | DSA Learner 💻 | Open Source
 
 <div align="center">
 
-<img src="https://img.shields.io/github/stars/Ali-hey-0?label=Total%20Stars&style=for-the-badge&color=FFD700&labelColor=FFA500" />
+<img src="https://img.shields.io/github/stars/tanve13?label=Total%20Stars&style=for-the-badge&color=FFD700&labelColor=FFA500" />
 
 </div>
 
