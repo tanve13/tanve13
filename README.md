@@ -82,7 +82,7 @@ Android Developer 📱 | Kotlin Enthusiast 💜 | DSA Learner 💻 | Open Source
 <div align="center">
 
 <img src="https://github-stats-extended.vercel.app/api?username=tanve13&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://streak-stats.demolab.com/?user=Ali-hey-0&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=tanve13&theme=tokyonight&hide_border=true" width="48%" />
 
 <br>
 
@@ -96,19 +96,6 @@ Android Developer 📱 | Kotlin Enthusiast 💜 | DSA Learner 💻 | Open Source
 </div>
 ---
 
-## ⭐ Repository Stars
-
-<div align="center">
-
-<img src="https://img.shields.io/github/stars/tanve13?label=Total%20Stars&style=for-the-badge&color=FFD700&labelColor=FFA500" />
-
-</div>
-
----
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=11,20,24&height=70&section=header&text=About%20Me&fontSize=28&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%" />
-</div>
 # 📈 Contribution Graph
 
 <p align="center">
