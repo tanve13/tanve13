@@ -67,12 +67,12 @@ Android Developer 📱 | Kotlin Enthusiast 💜 | DSA Learner 💻 | Open Source
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=tanve13&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://streak-stats.demolab.com/?username =tanve13&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=tanve13&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%" />
 
+<img src="https://streak-stats.demolab.com?user=tanve13&theme=tokyonight&hide_border=true" width="48%" />
 <br>
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=tanve13&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanve13&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 <br>
 
 <img src="https://github-profile-trophy.vercel.app/?username=tanve13&theme=tokyonight&no-frame=true&row=1&column=7" width="95%" />
