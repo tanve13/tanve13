@@ -63,32 +63,16 @@ Android Developer 📱 | Kotlin Enthusiast 💜 | DSA Learner 💻 | Open Source
 
 ---
 
-# 🚀 Current Goals
-
-✅ Solve LeetCode Daily
-
-✅ Build Android Projects
-
-✅ Contribute to Open Source
-
-✅ Improve DSA
-
-✅ Learn Jetpack Compose
-
----
-
 # 📊 GitHub Stats
 
 <div align="center">
 
 <img src="https://github-stats-extended.vercel.app/api?username=tanve13&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://streak-stats.demolab.com/?user=tanve13&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://streak-stats.demolab.com/?username =tanve13&theme=tokyonight&hide_border=true" width="48%" />
 
 <br>
 
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=tanve13&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tanve13&theme=tokyo-night&hide_border=true" width="48%" />
-
 <br>
 
 <img src="https://github-profile-trophy.vercel.app/?username=tanve13&theme=tokyonight&no-frame=true&row=1&column=7" width="95%" />
