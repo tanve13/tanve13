@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tanveer Kaur</h1>
 
-<h3 align="center">
+<h3 align="center"> 
 Android Developer 📱 | Kotlin Enthusiast 💜 | DSA Learner 💻 | Open Source Contributor 🚀
 </h3>
  
