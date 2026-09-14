@@ -62,6 +62,9 @@ Android Developer 📱 | Kotlin Enthusiast 💜 | DSA Learner 💻 | Open Source
 </p>
 
 ---
+[![Tanveer's GitHub Stats](https://github-readme-mwendwa.vercel.app/api?username=tanve13&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
+ 
+[![Top Languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=tanve13&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
 # 📊 GitHub Stats
 
